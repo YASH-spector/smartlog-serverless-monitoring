@@ -1,0 +1,8 @@
+| log_id | level | message                    | service         | timestamp  |
+| ------ | ----- | -------------------------- | --------------- | ---------- |
+| 12345  | ERROR | Database connection failed | payment-service | 2026-03-06 |
+
+
+
+  
+  
