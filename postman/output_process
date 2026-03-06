@@ -1,0 +1,14 @@
+step1: paste the url of the api 
+step2: select POST
+step3: Body → raw → JSON
+
+{
+ "level": "ERROR",
+ "message": "payment failed",
+ "service": "checkout-service"
+}
+
+OUTPUT:{
+ "statusCode": 200,
+ "body": "Log processed successfully"
+}
