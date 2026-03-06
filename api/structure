@@ -1,0 +1,11 @@
+API Gateway
+    │
+    ▼
+   /
+   │
+   └── /logs
+          │
+          └── POST
+                 │
+                 ▼
+            Lambda Function
