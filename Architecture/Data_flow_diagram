@@ -1,0 +1,17 @@
+Application
+    │
+    ▼
+API Gateway
+    │
+    ▼
+Lambda (log processor)
+    │
+ ┌──┴────────┐
+ ▼           ▼
+S3        DynamoDB
+ │
+ ▼
+CloudWatch
+ │
+ ▼
+SNS Email Alerts
