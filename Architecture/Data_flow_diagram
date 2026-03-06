@@ -1,4 +1,7 @@
-Application
+CloudFront
+     │
+     ▼
+Private S3 (HTML)
     │
     ▼
 API Gateway
